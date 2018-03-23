@@ -7197,6 +7197,14 @@ http://flickity.metafizzy.co
 		font-weight: normal;
 		font-size: 1.05em;
 	}
+@media (max-width: 769px) {
+	.logo-other {
+		-ms-flex-item-align: center;
+    	-ms-grid-row-align: center;
+    	align-self: center;
+	}
+}
+
 .j-image-container .full-width {
 	max-height: none;
 }
