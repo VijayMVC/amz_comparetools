@@ -7189,13 +7189,13 @@ http://flickity.metafizzy.co
 .logo-other {
 	-ms-flex-item-align: end;
 	align-self: flex-end;
-	font-size: 2.5em;
-	line-height: 1em;
+	font-size: 1.5em;
+	line-height: 1.2em;
 	font-weight: bold;
 }
 	.logo-other small {
 		font-weight: normal;
-		font-size: 1.05em;
+		font-size: 1.7em;
 	}
 @media (max-width: 769px) {
 	.logo-other {
